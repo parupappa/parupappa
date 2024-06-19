@@ -13,11 +13,12 @@ Then now I'm a Site Reliability Engineer at 3-shake, inc（07/2023 ~ now）
 【Specilization & Expertise】
  - 2+ years of software engineering experience in public cloud and related technologies. Big love to cloud native technologies & cloud communities.
  - Extensive knowledge of o11y, SRE, DevOps and tools of them.
- - 6x Google Cloud Certified, 12x AWS Certified
+ - 8x Google Cloud Certified, 12x AWS Certified
 
 【Awards】
 - [2023 Japan AWS Jr.Chmapions](https://aws.amazon.com/jp/blogs/psa/2023-japan-aws-jr-champions/)
 - [2023 Japan AWS All Certifications Engineers](https://aws.amazon.com/jp/blogs/psa/2023-japan-aws-all-certifications-engineers/)
+- [2024 Japan AWS All Certifications Engineers](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers/)
 
 【Communities】
  - Organizer of Jagu'e'r - CloudNative Subcommittee & Observability-SRE Subcommittee (Japan Google Cloud User Group for Enterprise)
